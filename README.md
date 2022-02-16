@@ -1,1 +1,1 @@
-# geasture-contolled-gloves
+# gesture-contolled-gloves
